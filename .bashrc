@@ -120,4 +120,4 @@ fi
 export PATH=$PATH:/opt/clion-2022.2.4/bin:/home/tom/bin
 
 # Postman alias
-alias postman='/opt/Postman/./Postman'
+alias postman='/opt/Postman/app/Postman'
