@@ -1,4 +1,4 @@
 #!/bin/bash
 
-ln -s ~/.dotfiles/.bashrc ~/.bashrc
-ln -s ~/.dotfiles/.settings.json ~/.vscode/.settings.json
+ln -s ~/.myFiles/.bashrc ~/.bashrc
+ln -s ~/.myFiles/.settings.json ~/.vscode/.settings.json
